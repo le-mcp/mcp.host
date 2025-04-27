@@ -1,5 +1,5 @@
 {
-  "name": "azure-container-apps-ai-mcp-host",
+  "name": "mcp-host",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -19,7 +19,7 @@
     "http",
     "sse"
   ],
-  "author": "Wassim Chegham <github@wassim.dev>",
+  "author": "<github@le-mcp>",
   "license": "MIT",
   "description": "An MCP host application that interacts with the MCP server and the LLM provider. The host instanciates an LLM provider and provides a terminal interface for the user to interact with the agent.",
   "dependencies": {
