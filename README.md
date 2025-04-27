@@ -20,7 +20,7 @@ To use the GitHub models, you need to set your `GITHUB_TOKEN` in the `.env` file
 ```env
 GITHUB_TOKEN=your_github_token
 MODEL="openai/gpt-4.1"
-
+```
 
 ### Running
 
