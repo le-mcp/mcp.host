@@ -9,7 +9,7 @@ import chalk from 'chalk';
 
 const config: MCPConfig = {
   servers: {
-    'bsc-mcp': {
+    'demo-stdio-mcp-server': {
       type: 'stdio',
       scriptPath: "../dist/index.js",
     },
